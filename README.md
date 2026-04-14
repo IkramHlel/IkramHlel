@@ -22,9 +22,9 @@ Passionnée par la création d’interfaces web performantes, centrées utilisat
 
 ## Highlights
 
-🔹 Développement de fonctionnalités complètes (de la conception à la mise en production)
-🔹 Approche orientée produit et expérience utilisateur
-🔹 Optimisation des performances et de la qualité du code
+- 🔹 Développement de fonctionnalités complètes (de la conception à la mise en production)
+- 🔹 Approche orientée produit et expérience utilisateur
+- 🔹 Optimisation des performances et de la qualité du code
 
 ---
 
