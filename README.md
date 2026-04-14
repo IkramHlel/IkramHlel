@@ -6,7 +6,7 @@ Passionnée par la création d’interfaces web performantes, centrées utilisat
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
@@ -14,7 +14,7 @@ Passionnée par la création d’interfaces web performantes, centrées utilisat
 
 ---
 
-## 📌 Projects
+## Projects
 
 ### 🔹 SaaS Dashboard (Metrico)
 Dashboard SaaS avec architecture proche de la production  
@@ -26,7 +26,7 @@ Application full-stack avec auth & CRUD
 
 ---
 
-## 🧠 What I focus on
+## What I focus on
 - Performance
 - User Experience (UX)
 - Clean & maintainable code
@@ -34,5 +34,5 @@ Application full-stack avec auth & CRUD
 
 ---
 
-## 📫 Contact
+## Contact
 - LinkedIn: https://www.linkedin.com/in/ikram-hlel-730b1a192/
