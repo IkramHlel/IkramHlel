@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Ikram
 
-<!--
-**IkramHlel/IkramHlel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer | React & TypeScript
 
-Here are some ideas to get you started:
+Passionnée par la création d’interfaces web performantes, centrées utilisateur et orientées produit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=redux)
+
+---
+
+## 📌 Projects
+
+### 🔹 SaaS Dashboard (Metrico)
+Dashboard SaaS avec architecture proche de la production  
+➡️ https://github.com/IkramHlel/saas-Dashboard
+
+### 🔹 Food App (Next.js)
+Application full-stack avec auth & CRUD  
+➡️ https://github.com/IkramHlel/food-app-next
+
+---
+
+## 🧠 What I focus on
+- Performance
+- User Experience (UX)
+- Clean & maintainable code
+- Product-oriented development
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ikram-hlel-730b1a192/
